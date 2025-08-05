@@ -143,5 +143,9 @@
   {
     "name": "Dim.ST",
     "address":["play.simpfun.cn:21402"]
+  },
+  {
+    "name":"Starry Sky"
+    "address":["scp079.work.gd:6567"]
   }
 ]
